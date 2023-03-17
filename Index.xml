@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<students>
+    <class_9 xmlns:a="www.abc.com">
+        <a:f_name>Muhammad</a:f_name>
+        <a:l_name>Abeer</a:l_name>
+        <a:surname>Khan</a:surname>
+        <a:student_id>100323</a:student_id>
+        <a:email>aq5431231@gmail.com</a:email>
+    </class_9>
+    <class_9 xmlns:b="www.abc.com">
+        <b:f_name>Muhammad</b:f_name>
+        <b:l_name>Aryan</b:l_name>
+        <b:surname>Khan</b:surname>
+        <b:student_id>100416</b:student_id>
+        <b:email>aryn5355@gmail.com</b:email>
+    </class_9>
+</students>
